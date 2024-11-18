@@ -1,0 +1,8 @@
+For testing , Open Postman
+Call POST Method
+http://localhost:8080/add using json data 
+{   "stdId" : 1,
+    "name" : "khoa",
+    "marks" : 14
+} 
+then call http://localhost:8080/all to view all
